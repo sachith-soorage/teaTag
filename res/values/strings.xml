@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">teaTags</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="explanation">result pending...</string>
+    <string name="report">refresh to generate report</string>
+   	<string name="select">Choose Quality Level</string>
+    
+    
+     <string-array name="quality">
+        <item>Select</item> 
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+</resources>

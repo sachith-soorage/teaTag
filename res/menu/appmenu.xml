@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/menu_home" android:title="New" android:icon="@android:drawable/ic_menu_add"/>
+    <item android:id="@+id/menu_list" android:title="List entries" android:icon="@android:drawable/ic_menu_recent_history"/>
+    <item android:id="@+id/menu_exit" android:title="Exit" android:icon="@android:drawable/ic_menu_close_clear_cancel"/>
+
+</menu>
